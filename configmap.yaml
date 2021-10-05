@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: config-map
+data:
+  app_color: blue
+  app_type:  front
